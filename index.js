@@ -40,7 +40,7 @@ app.use(session({
     },
     store: MongoStore.create(
         {
-            mongoUrl:'mongodb+srv://shaik22arshad:iWb1774yZUPwZ3ki@cluster0.ntipqh2.mongodb.net/?retryWrites=true&w=majority',
+            mongoUrl:'mongodb+srv://shaik22arshad:ZABKm2Cx8rIt9XDF@cluster0.jthsizw.mongodb.net/?retryWrites=true&w=majority',
             autoRemover : 'disabled'
         },
         function(err){
